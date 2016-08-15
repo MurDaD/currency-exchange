@@ -1,0 +1,44 @@
+# Russian translations for PACKAGE package
+# ���������� �������� ��� ������ PACKAGE.
+# Copyright (C) 2016 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# root <root@alpha>, 2016.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-08-15 00:38+0300\n"
+"PO-Revision-Date: 2016-08-15 00:57+0300\n"
+"Last-Translator: root <root@alpha>\n"
+"Language-Team: Russian\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+#: tmp/home.php:8 tmp/inner.php:4
+msgid "Back"
+msgstr "Назад"
+
+#: tmp/home.php:8 tmp/home.php:22 i18n.php:25 config.php:53
+msgid "Bank"
+msgstr "Банк"
+
+#: tmp/home.php:9 tmp/home.php:23
+msgid "Currency"
+msgstr "Валюта"
+
+#: tmp/home.php:10 tmp/home.php:24 tmp/inner.php:7
+msgid "Buy"
+msgstr "Купля"
+
+#: tmp/home.php:11 tmp/home.php:25 tmp/inner.php:8
+msgid "Sell"
+msgstr "Продажа"
+
+#: tmp/home.php:12 tmp/home.php:26 tmp/inner.php:9
+msgid "Updated"
+msgstr "Обновлено"

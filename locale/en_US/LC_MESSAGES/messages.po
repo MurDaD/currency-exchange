@@ -1,0 +1,42 @@
+# English translations for PACKAGE package.
+# Copyright (C) 2016 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# root <root@alpha>, 2016.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-08-15 00:38+0300\n"
+"PO-Revision-Date: 2016-08-15 00:39+0300\n"
+"Last-Translator: root <root@alpha>\n"
+"Language-Team: English\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ISO-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: tmp/home.php:8 tmp/inner.php:4
+msgid "Back"
+msgstr "Back"
+
+#: tmp/home.php:8 tmp/home.php:22 i18n.php:25 config.php:53
+msgid "Bank"
+msgstr "Bank"
+
+#: tmp/home.php:9 tmp/home.php:23
+msgid "Currency"
+msgstr "Currency"
+
+#: tmp/home.php:10 tmp/home.php:24 tmp/inner.php:7
+msgid "Buy"
+msgstr "Buy"
+
+#: tmp/home.php:11 tmp/home.php:25 tmp/inner.php:8
+msgid "Sell"
+msgstr "Sell"
+
+#: tmp/home.php:12 tmp/home.php:26 tmp/inner.php:9
+msgid "Updated"
+msgstr "Updated"
